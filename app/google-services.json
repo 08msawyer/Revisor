@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419362082318",
+    "project_id": "revisor-c4cd8",
+    "storage_bucket": "revisor-c4cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419362082318:android:b132256720424bc4e4765f",
+        "android_client_info": {
+          "package_name": "com.llamalad7.revisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419362082318-lp1gif92md061je3kdni1ikvdp9e27ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHE00VDsgCSy2XwGL-3EXHD2zlaCSU_GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419362082318-lp1gif92md061je3kdni1ikvdp9e27ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
